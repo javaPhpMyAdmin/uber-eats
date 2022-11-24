@@ -5,4 +5,4 @@ export * from "./Restaurant/index";
 export * from "./BottomTabs/BottomTabs";
 export * from "./About/About";
 export * from "./MenuItems/MenuItems";
-
+export * from "./OrderItem/OrderItem";
